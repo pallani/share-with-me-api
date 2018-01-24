@@ -1,0 +1,40 @@
+{
+  "name": "share-with-me-api",
+  "version": "0.0.1",
+  "description": "Share with me something in Singapore",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pallani/share-with-me-api.git"
+  },
+  "author": "Pallani Kumaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pallani/share-with-me-api/issues"
+  },
+  "homepage": "https://github.com/pallani/share-with-me-api",
+  "engines": {
+    "node": "8.9.4",
+    "npm": "5.6.0"
+  },
+  "devDependencies": {
+    "eslint": "4.16.0",
+    "eslint-config-standard": "11.0.0-beta.0",
+    "eslint-plugin-promise": "3.6.0",
+    "eslint-plugin-standard": "3.0.1",
+    "standard": "10.0.3"
+  },
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "compression": "1.7.1",
+    "cors": "2.8.4",
+    "express": "4.16.2",
+    "lodash": "4.17.4",
+    "moment": "2.20.1",
+    "moment-timezone": "0.5.14",
+    "uuid": "3.2.1"
+  }
+}
