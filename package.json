@@ -33,6 +33,7 @@
     "compression": "1.7.1",
     "cors": "2.8.4",
     "express": "4.16.2",
+    "firebase-admin": "5.8.1",
     "got": "8.0.3",
     "lodash": "4.17.4",
     "moment": "2.20.1",
